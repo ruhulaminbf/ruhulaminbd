@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="bn">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>RUHUL AMIN — ব্যবসায়ী | বোয়ালমারী, ফরিদপুর</title>
+  <meta name="description" content="RUHUL AMIN — ব্যবসায়ী। বোয়ালমারী, ফরিদপুর। যোগাযোগ: ruhulbd9999@gmail.com | 01753917630">
+
+  <meta property="og:type" content="profile">
+  <meta property="og:title" content="RUHUL AMIN — ব্যবসায়ী">
+  <meta property="og:description" content="RUHUL AMIN — ব্যবসায়ী। বোয়ালমারী, ফরিদপুর।">
+  <meta property="og:image" content="profile.jpg">
+  <meta property="og:site_name" content="RUHUL AMIN">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="RUHUL AMIN — ব্যবসায়ী">
+  <meta name="twitter:description" content="RUHUL AMIN — ব্যবসায়ী। বোয়ালমারী, ফরিদপুর।">
+  <meta name="twitter:image" content="profile.jpg">
+
+  <style>
+    body{font-family: system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#f7fafc;margin:0;padding:24px;color:#0b1724}
+    .container{max-width:800px;margin:32px auto;background:#fff;border-radius:12px;box-shadow:0 6px 30px rgba(10,10,20,0.06);overflow:hidden}
+    header{display:flex;gap:20px;align-items:center;padding:28px}
+    .avatar{width:140px;height:140px;border-radius:12px;flex:0 0 140px;overflow:hidden;background:#eee;display:flex;align-items:center;justify-content:center}
+    .avatar img{width:100%;height:100%;object-fit:cover;display:block}
+    h1{margin:0;font-size:1.6rem}
+    .meta{color:#374151;margin-top:6px}
+    .content{padding:0 28px 28px}
+    .contact{display:flex;gap:12px;flex-wrap:wrap;margin-top:12px}
+    .chip{background:#f1f5f9;padding:8px 12px;border-radius:999px;font-size:0.95rem}
+    footer{padding:18px 28px;background:#fbfdff;border-top:1px solid #eef2f7}
+    a{color:#0b5cff;text-decoration:none}
+    .social{margin-left:auto}
+    @media(max-width:640px){header{flex-direction:column;align-items:flex-start}.avatar{width:110px;height:110px}}
+  </style>
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "RUHUL AMIN",
+    "jobTitle": "ব্যবসায়ী",
+    "address": {
+      "@type": "PostalAddress",
+      "addressLocality": "বোয়ালমারী",
+      "addressRegion": "ফরিদপুর",
+      "addressCountry": "Bangladesh"
+    },
+    "email": "mailto:ruhulbd9999@gmail.com",
+    "telephone": "+8801753917630",
+    "image": "profile.jpg",
+    "sameAs": ["https://www.facebook.com/share/1Bt8NrHDH3/"]
+  }
+  </script>
+</head>
+<body>
+  <div class="container">
+    <header>
+      <div class="avatar">
+        <img src="profile.jpg" alt="RUHUL AMIN — ব্যবসায়ী">
+      </div>
+      <div style="flex:1">
+        <h1>RUHUL AMIN</h1>
+        <div class="meta">ব্যবসায়ী • বোয়ালমারী, ফরিদপুর</div>
+        <div class="contact">
+          <div class="chip">📧 ruhulbd9999@gmail.com</div>
+          <div class="chip">📱 01753917630</div>
+        </div>
+      </div>
+      <div class="social">
+        <a href="https://www.facebook.com/share/1Bt8NrHDH3/" target="_blank" rel="noopener">Facebook প্রোফাইল</a>
+      </div>
+    </header>
+
+    <div class="content">
+      <h2>পরিচিতি</h2>
+      <p>আমি RUHUL AMIN, একজন ব্যবসায়ী। বোয়ালমারী, ফরিদপুরে বাস করি। এই পেজে আমার যোগাযোগের তথ্য, পরিচিতি ও ছবি রয়েছে।</p>
+    </div>
+
+    <footer>
+      <small>এই এক-পৃষ্ঠার সাইটটি Google-এ আপনার নামের সাথে ছবি প্রদর্শনের সম্ভাবনা বাড়াতে ডিজাইন করা।</small>
+    </footer>
+  </div>
+</body>
+</html>
